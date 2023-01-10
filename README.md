@@ -2,10 +2,7 @@
 
 <div align=center>
   <h1> FROM MINYOUNG </h1>
-<br>
-<br>
 
-__INTRODUCE__
 <br> 안녕하세요! 느리지만 열정 가득한 저를 소개합니다!
 <br>
 <br>
@@ -19,14 +16,7 @@ __LANGUAGES__
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FROM-minyoung&layout=compact)](https://github.com/깃minyuet/github-readme-stats) 
 <br>
 <br>
-<br>
-__PROBLEM SOLVING__ 
-<br>
-<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyuet)](https://solved.ac/minyuet)
 
-<br>
-<br>
   
 __CONTACT__
 <br>
@@ -43,6 +33,11 @@ __CONTACT__
 <!--
 
 노션 : [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
+
+__PROBLEM SOLVING__ 
+<br>
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyuet)](https://solved.ac/minyuet)
 
 **minyuet/minyuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
