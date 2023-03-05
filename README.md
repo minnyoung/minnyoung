@@ -1,7 +1,7 @@
 
 
 <div align=center>
-  <h1> FROM MINYOUNG </h1>
+  <h1> MINYOUNG </h1>
 
 <br> 안녕하세요! 느리지만 열정 가득한 저를 소개합니다!
 <br>
