@@ -2,13 +2,16 @@
 <h2> (　　) 에게 도움을 줄 수 있는 개발자, 권민영입니다 🤝</h2>
   
 > **사람**에게, **사용자**에게, **팀원**에게, 그리고 **당신**에게 도움을 줄 수 있도록 노력하고 있어요!
-  
+  <br/>
 <h3>It's me!</h3>
   
 MAIL 📧　918liter@gmail.com
 <br>
 BLOG 📝　https://velog.io/@bamzzi15
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bamzzi15)](https://velog.io/@bamzzi15)
+
+<br/>
 <h3>Interesting ✏</h3>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
